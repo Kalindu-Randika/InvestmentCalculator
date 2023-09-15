@@ -49,7 +49,7 @@ function CalculateForm({ onYearlyDataChange }) {
         <div>
             <header className="header">
                 <img src={logo} alt="logo" />
-                <h1>Investment Calculator</h1>
+                <h1>Investment Calculator by K 👀 </h1>
             </header>
 
             <form className="form" onSubmit={calculateHandler}>
